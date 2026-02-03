@@ -2,3 +2,14 @@
 /Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.AssemblyInfoInputs.cache
 /Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.AssemblyInfo.cs
 /Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.csproj.CoreCompileInputs.cache
+/Users/prashant/Desktop/C#_AI/neural_networks/bin/Debug/net10.0/neural_networks
+/Users/prashant/Desktop/C#_AI/neural_networks/bin/Debug/net10.0/neural_networks.deps.json
+/Users/prashant/Desktop/C#_AI/neural_networks/bin/Debug/net10.0/neural_networks.runtimeconfig.json
+/Users/prashant/Desktop/C#_AI/neural_networks/bin/Debug/net10.0/neural_networks.dll
+/Users/prashant/Desktop/C#_AI/neural_networks/bin/Debug/net10.0/neural_networks.pdb
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.sourcelink.json
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.dll
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/refint/neural_networks.dll
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.pdb
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.genruntimeconfig.cache
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/ref/neural_networks.dll
