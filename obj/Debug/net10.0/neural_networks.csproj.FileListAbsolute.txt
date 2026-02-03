@@ -1,0 +1,4 @@
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.AssemblyInfoInputs.cache
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.AssemblyInfo.cs
+/Users/prashant/Desktop/C#_AI/neural_networks/obj/Debug/net10.0/neural_networks.csproj.CoreCompileInputs.cache
